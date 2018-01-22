@@ -3,4 +3,8 @@ class UsersController < ApplicationController
     @user = current_user
 
   end
+
+  def myfriends
+
+  end
 end
